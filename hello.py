@@ -1,0 +1,8 @@
+print("Mercy")
+print(7777)
+print(7*2+4-9)
+print(10/3)
+print(10/3.0)
+print(10//7)
+# print(10/0)
+print(99)
