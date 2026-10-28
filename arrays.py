@@ -1,5 +1,5 @@
 ages = [21, 72, 43, 59, 28, 39, 37, 40]  # list/array
-names = ["Becky", "Mary", "Kamaa", "Meck"]
+names = ["Becky", "Mary", "Kamaa", "Meck", "Nimo"]
 
 # list functions
 ages.append(45)  # append function is used to add to the list
@@ -72,3 +72,4 @@ people = [
     {"name": "Liam", "age": 1, "city": "Mombasa"}
 ]
 print(people[0]["age"])
+
