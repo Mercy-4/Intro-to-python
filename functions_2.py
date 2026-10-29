@@ -1,6 +1,6 @@
 def add(a, b, c):
     res = a + b + c
-    # a fuction is not supposed to print the answer it should return
+    # a function is not supposed to print the answer it should return
     return res
 
 # call the function
