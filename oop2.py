@@ -20,3 +20,5 @@ c3 = Circle(30)
 
 print(c1.area())
 c1.print_details()
+
+# we still learn python inheritance
